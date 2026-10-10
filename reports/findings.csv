@@ -1,0 +1,43 @@
+company_id,legal_name,score,level,rules,beneficial_owners,evidence
+C-0039,Clearwater Hospitality Inc,70,high,R3 R4 R7,P-0165 Quinn Xu 100%,"12 companies are registered at 199 Market Road, Stonebridge | Quinn Hughes (P-0265) directs 12 companies and owns under 5% of 12 of them | dissolved 244 days after it was incorporated"
+C-0145,Hollow Works LLC,70,high,R3 R4 R7,P-0284 Gustavo Delgado 100%,"12 companies are registered at 199 Market Road, Stonebridge | Quinn Hughes (P-0265) directs 12 companies and owns under 5% of 12 of them | dissolved 223 days after it was incorporated"
+C-0244,Juniper Holdings LLC,70,high,R3 R4 R7,P-0113 Irene Patel 100%,"12 companies are registered at 199 Market Road, Stonebridge | Quinn Hughes (P-0265) directs 12 companies and owns under 5% of 12 of them | dissolved 261 days after it was incorporated"
+C-0247,Kingsway Systems LLC,70,high,R3 R4 R7,P-0284 Gustavo Delgado 100%,"12 companies are registered at 199 Market Road, Stonebridge | Quinn Hughes (P-0265) directs 12 companies and owns under 5% of 12 of them | dissolved 192 days after it was incorporated"
+C-0282,Harbor Services Inc,70,high,R3 R4 R7,P-0194 Diego Navarro 100%,"12 companies are registered at 199 Market Road, Stonebridge | Quinn Hughes (P-0265) directs 12 companies and owns under 5% of 12 of them | dissolved 155 days after it was incorporated"
+C-0047,Fjord Capital SA,50,high,R3 R4,P-0165 Quinn Xu 100%,"12 companies are registered at 199 Market Road, Stonebridge | Quinn Hughes (P-0265) directs 12 companies and owns under 5% of 12 of them"
+C-0052,Cedar Supply Ltd,50,high,R3 R4,P-0113 Irene Patel 100%,"12 companies are registered at 199 Market Road, Stonebridge | Quinn Hughes (P-0265) directs 12 companies and owns under 5% of 12 of them"
+C-0106,Harbor Partners LLC,50,high,R3 R4,P-0113 Irene Patel 100%,"12 companies are registered at 199 Market Road, Stonebridge | Quinn Hughes (P-0265) directs 12 companies and owns under 5% of 12 of them"
+C-0116,Unity Capital Ltd,50,high,R3 R4,P-0165 Quinn Xu 100%,"12 companies are registered at 199 Market Road, Stonebridge | Quinn Hughes (P-0265) directs 12 companies and owns under 5% of 12 of them"
+C-0219,Unity Solutions LLC,50,high,R3 R4,P-0194 Diego Navarro 100%,"12 companies are registered at 199 Market Road, Stonebridge | Quinn Hughes (P-0265) directs 12 companies and owns under 5% of 12 of them"
+C-0283,Orchard Services Ltd,50,high,R3 R4,P-0284 Gustavo Delgado 100%,"12 companies are registered at 199 Market Road, Stonebridge | Quinn Hughes (P-0265) directs 12 companies and owns under 5% of 12 of them"
+C-0366,Kingsway Energy Inc,50,high,R3 R4,P-0194 Diego Navarro 100%,"12 companies are registered at 199 Market Road, Stonebridge | Quinn Hughes (P-0265) directs 12 companies and owns under 5% of 12 of them"
+C-0044,Lakeshore Solutions SA,30,medium,R1,P-0203 Luis Lopez 55%,part of an ownership loop: C-0044 > C-0140 > C-0133 > C-0044
+C-0133,Bluepeak Supply SA,30,medium,R1,P-0172 Felix Patel 55%,part of an ownership loop: C-0044 > C-0140 > C-0133 > C-0044
+C-0140,Westbrook Labs Inc,30,medium,R1,P-0287 Nicolas Lopez 55%,part of an ownership loop: C-0044 > C-0140 > C-0133 > C-0044
+C-0173,Northbridge Systems Inc,30,medium,R6,none traced,100% of the ownership cannot be traced to a person
+C-0206,Fjord Hospitality LLC,30,medium,R6,P-0103 Beatriz Walsh 50%,50% of the ownership cannot be traced to a person
+C-0269,Riverbend Partners Inc,30,medium,R6,none traced,100% of the ownership cannot be traced to a person
+C-0330,Oakridge Services Inc,30,medium,R6,none traced,80% of the ownership cannot be traced to a person
+C-0007,Eastgate Group Inc,25,medium,R5,P-0045 Helena Alvarez 40%; P-0138 Marta Jensen 26%; P-0214 Pablo Walsh 26%,"Pablo Walsh (P-0214) holds 26% through 3 routes, none above 16%"
+C-0055,Highland Energy Ltd,25,medium,R2,P-0334 Ivan Zamora 100%,Ivan Zamora (P-0334) owns 100% but the closest route passes through 4 intermediary companies
+C-0232,Granite Hospitality LLC,25,medium,R2,P-0334 Ivan Zamora 100%,Ivan Zamora (P-0334) owns 100% but the closest route passes through 3 intermediary companies
+C-0014,Dune Foods SA,20,low,R7,P-0002 Pablo Navarro 50%; P-0178 Olivia Reyes 30%,dissolved 278 days after it was incorporated
+C-0033,Island Partners Ltd,20,low,R3,P-0215 Ximena Underwood 40%; P-0372 Nora Jimenez 35%; P-0230 Elena Herrera 25%,"9 companies are registered at 6 Hill Road, Northgate"
+C-0046,Westbrook Works LLC,20,low,R7,P-0273 Nora Morales 100%,dissolved 302 days after it was incorporated
+C-0097,Hollow Systems Inc,20,low,R7,P-0377 Cesar Alvarez 100%,dissolved 248 days after it was incorporated
+C-0105,Thornfield Group LLC,20,low,R7,P-0366 Daniela Ibarra 100%,dissolved 252 days after it was incorporated
+C-0175,Thornfield Solutions SA,20,low,R3,P-0215 Ximena Underwood 40%; P-0372 Nora Jimenez 35%; P-0230 Elena Herrera 25%,"9 companies are registered at 6 Hill Road, Northgate"
+C-0190,Unity Foods SA,20,low,R7,P-0119 Marta Dominguez 100%,dissolved 270 days after it was incorporated
+C-0222,Island Solutions LLC,20,low,R7,P-0342 Rosa Estrada 50%; P-0350 Cesar Vargas 50%,dissolved 122 days after it was incorporated
+C-0228,Thornfield Ventures SA,20,low,R3,P-0215 Ximena Underwood 40%; P-0372 Nora Jimenez 35%; P-0230 Elena Herrera 25%,"9 companies are registered at 6 Hill Road, Northgate"
+C-0256,Orchard Group Ltd,20,low,R3,P-0215 Ximena Underwood 40%; P-0372 Nora Jimenez 35%; P-0230 Elena Herrera 25%,"9 companies are registered at 6 Hill Road, Northgate"
+C-0271,Lighthouse Services Ltd,20,low,R7,P-0101 Diego Patel 100%,dissolved 200 days after it was incorporated
+C-0288,Hollow Energy LLC,20,low,R3,P-0215 Ximena Underwood 40%; P-0372 Nora Jimenez 35%; P-0230 Elena Herrera 25%,"9 companies are registered at 6 Hill Road, Northgate"
+C-0308,Granite Partners Inc,20,low,R7,P-0365 Fernanda Cordero 48%; P-0002 Pablo Navarro 40%,dissolved 160 days after it was incorporated
+C-0329,Hollow Consulting Ltd,20,low,R3,P-0215 Ximena Underwood 40%; P-0372 Nora Jimenez 35%; P-0230 Elena Herrera 25%,"9 companies are registered at 6 Hill Road, Northgate"
+C-0335,Stonegate Consulting Ltd,20,low,R3,P-0215 Ximena Underwood 40%; P-0372 Nora Jimenez 35%; P-0230 Elena Herrera 25%,"9 companies are registered at 6 Hill Road, Northgate"
+C-0344,Dune Ventures LLC,20,low,R7,P-0049 Valeria Fischer 100%,dissolved 270 days after it was incorporated
+C-0345,Alder Supply Ltd,20,low,R3,P-0215 Ximena Underwood 40%; P-0372 Nora Jimenez 35%; P-0230 Elena Herrera 25%,"9 companies are registered at 6 Hill Road, Northgate"
+C-0354,Goldleaf Logistics SA,20,low,R7,P-0178 Olivia Reyes 100%,dissolved 301 days after it was incorporated
+C-0359,Valley Materials Ltd,20,low,R3,P-0215 Ximena Underwood 40%; P-0372 Nora Jimenez 35%; P-0230 Elena Herrera 25%,"9 companies are registered at 6 Hill Road, Northgate"
+C-0178,Eastgate Supply Ltd,15,low,R6,P-0341 Julia Alvarez 70%,30% of the ownership cannot be traced to a person

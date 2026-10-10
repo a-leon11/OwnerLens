@@ -1,0 +1,129 @@
+{
+  "as_of": "2026-01-01",
+  "benign": {
+    "busy_operator": [
+      "C-0085",
+      "C-0179",
+      "C-0191",
+      "C-0257",
+      "C-0263",
+      "C-0292",
+      "C-0310",
+      "C-0316",
+      "C-0350",
+      "C-0356"
+    ],
+    "short_chain": [
+      "C-0030",
+      "C-0139",
+      "C-0273"
+    ],
+    "short_lived": [
+      "C-0190",
+      "C-0344"
+    ],
+    "transparent_group": [
+      "C-0033",
+      "C-0175",
+      "C-0228",
+      "C-0256",
+      "C-0288",
+      "C-0329",
+      "C-0335",
+      "C-0345",
+      "C-0359"
+    ]
+  },
+  "patterns": [
+    {
+      "companies": [
+        "C-0044",
+        "C-0133",
+        "C-0140"
+      ],
+      "note": "three companies that own each other in a circle",
+      "pattern": "ownership_ring",
+      "rule": "circular_ownership"
+    },
+    {
+      "companies": [
+        "C-0055",
+        "C-0232"
+      ],
+      "note": "one person reaches the last two companies through 3 and 4 intermediaries",
+      "pattern": "layered_chain",
+      "rule": "layering"
+    },
+    {
+      "companies": [
+        "C-0039",
+        "C-0047",
+        "C-0052",
+        "C-0106",
+        "C-0116",
+        "C-0145",
+        "C-0219",
+        "C-0244",
+        "C-0247",
+        "C-0282",
+        "C-0283",
+        "C-0366"
+      ],
+      "note": "twelve companies registered at one address",
+      "pattern": "shell_factory_address",
+      "rule": "mass_address"
+    },
+    {
+      "companies": [
+        "C-0039",
+        "C-0047",
+        "C-0052",
+        "C-0106",
+        "C-0116",
+        "C-0145",
+        "C-0219",
+        "C-0244",
+        "C-0247",
+        "C-0282",
+        "C-0283",
+        "C-0366"
+      ],
+      "note": "one person directs all twelve and owns none",
+      "pattern": "shell_factory_nominee",
+      "rule": "nominee_director"
+    },
+    {
+      "companies": [
+        "C-0039",
+        "C-0145",
+        "C-0244",
+        "C-0247",
+        "C-0282"
+      ],
+      "note": "five of the twelve closed within a year",
+      "pattern": "shell_factory_closures",
+      "rule": "rapid_dissolution"
+    },
+    {
+      "companies": [
+        "C-0007"
+      ],
+      "note": "one person holds 26% in total, but never more than 16% by any one route",
+      "pattern": "threshold_dodging",
+      "rule": "threshold_dodging"
+    },
+    {
+      "companies": [
+        "C-0173",
+        "C-0178",
+        "C-0206",
+        "C-0269",
+        "C-0330"
+      ],
+      "note": "stakes that end in a company with no recorded owner, or that are not recorded at all",
+      "pattern": "opaque_ownership",
+      "rule": "unresolved_ownership"
+    }
+  ],
+  "seed": 7
+}
